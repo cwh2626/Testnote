@@ -129,7 +129,7 @@ footer {
   .nav.active {
     opacity: 0.8;
     transition: all 0.5s;
-    height: 270px;
+    height: 15em;
     display: flex;
     flex-direction: column;
     background: #fffff3;
